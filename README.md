@@ -1,9 +1,9 @@
 # Overview
 
-This is code I wrote in 24 hour Dell Technologies Intern Hackathon Summer 2022.
-My team won first place out of 12 teams.
-
-
+This is code I wrote in 24 hour Dell Technologies Intern Hackathon Summer 2022. <br>
+My team won first place out of 12 teams.<br>
+<br>
+<br>
 Our goal was to automate a matching process for new-hires. 
 I wrote parse.py to parse and handle all the data from many surveys.
 I wrote Person.py to handle data throughout the parsing process
