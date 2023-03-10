@@ -1,5 +1,3 @@
-# Overview
-
 ## Goal
 Automate a process that matches new employees with managers of similar needs after a series of social events and surveys. <br>
 
